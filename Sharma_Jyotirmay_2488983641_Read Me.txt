@@ -1,0 +1,1 @@
+In some places I have used some commands like c_str() and std::to_string(i), where i is an integer as I didn't check the compiler flag- Have g++ follow the C++11 ISO C++ language standard [-std=c++11]. Please check this flag (before running the code). Thank you.
